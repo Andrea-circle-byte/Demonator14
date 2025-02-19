@@ -35,8 +35,8 @@ public final class RobotMap {
   public static final int ELEVATOR_DRIVE_LEADER_ID = 12;
   public static final int ELEVATOR_DRIVE_FOLLOWER_ID = 7;
 
-  public static final int CORALLER_ANGLE_ID = 4;
-  public static final int CORALLER_INTAKE_MOTOR_ID = 5;
+  public static final int CORALLER_ANGLE_ID = 14;
+  public static final int CORALLER_INTAKE_MOTOR_ID = 15;
   public static final int CLIMBER_REEL_ID = 16;
   public static final int CLIMBER_ANCHOR_ID = 0;
 
